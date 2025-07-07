@@ -1,22 +1,40 @@
-<!-- Lavender Line Divider -->
+<!-- Decorative Header -->
 <img src="https://i.imgur.com/CfWnKzy.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm Nuran Farhana Prova</h1>
+<h1 align="center" style="color: #c084fc; font-family: 'Segoe UI', sans-serif; letter-spacing: 2px;">
+  ✦ NURAN FARHANA PROVA ✦
+</h1>
 
-<h3 align="center">🚀 BSc in Data Science | 💡 Turning data into stories</h3>
+<h2 align="center" style="color: #fff; font-family: 'Segoe UI', sans-serif;">
+  👋 Hey there, I'm <strong style="color: #facc15;">Nuran Farhana Prova!</strong>
+</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EEAD4&width=435&lines=Data+Explorer+%26+ML+Learner;Pandas+%7C+Python+%7C+Jupyter+Notebook+Addict;Always+curious%2C+always+learning...)](https://git.io/typing-svg)
+<h3 align="center" style="color: #a5f3fc;">
+  🚀 BSc in Data Science | 💡 Turning data into stories
+</h3>
 
----
+<p align="center">
+  <code style="color: #a3e635; background: #1e293b; padding: 10px; border-radius: 10px;">
+    Data Explorer & ML Learner <br>
+    Pandas | Python | Jupyter Notebook Addict <br>
+    Always curious, always learning...
+  </code>
+</p>
 
+<hr style="border: 1px solid #6b21a8; width: 80%;">
 
-🧠 **About Me:**
+<h3 style="color: #fff;">👩‍💻 About Me</h3>
 
-🎓 Studying BSc in Data Science at East West University  
-📊 Passionate about data, machine learning, and AI  
-🐍 Python, Pandas & Jupyter Notebook lover  
-🔍 Curious mind on a journey to turn data into decisions  
-🌱 Always learning  
+<ul style="color: #d1d5db; line-height: 1.8;">
+  <li>🎓 BSc in Data Science © East West University</li>
+  <li>📊 Obsessed with clean data, dirty real-world problems</li>
+  <li>😊 Fluent in Pythonese, thinks in vectors</li>
+  <li>✨ Interests: Machine Learning, Visualization, Ethical AI</li>
+  <li>📡 Quote: <em>“In a world full of noise, I listen to data.”</em></li>
+</ul>
+
+<!-- Decorative Footer -->
+<img src="https://i.imgur.com/CfWnKzy.gif" width="100%">
 
 <table>
   <tr>
