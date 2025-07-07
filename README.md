@@ -31,11 +31,12 @@
   <tr>
     <td>
       <!-- GitHub language card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProvaNuran&layout=compact&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProvaNuran&layout=compact&theme=radical" />
     </td>
     <td style="width: 240px;"></td> <!-- Spacer column -->
     <td>
       <!-- Your image -->
+       <div style="padding-left: 10px;">
             <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" style="border-radius: 12px;" />
     </td>
   </tr>
