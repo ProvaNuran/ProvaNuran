@@ -32,6 +32,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProvaNuran&layout=compact&theme=radical" />
     </td>
+       <td>
+      <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" style="border-radius: 12px;" />
+    </td>
   </tr>
 </table>
 
@@ -47,9 +50,6 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ProvaNuran&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
