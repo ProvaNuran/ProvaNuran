@@ -1,10 +1,8 @@
-<!-- Neon line divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- Lavender Line Divider -->
+<img src="https://i.imgur.com/CfWnKzy.gif" width="100%">
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
-  Hey there, I’m Nuran Farhana Prova!
-</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6a0dad; text-shadow: 1px 1px 2px #ccc;">Hi 👋, I'm <span style="color: #4b0082;">Nuran Farhana Prova</span></h1>
+
 
 <h3 align="center">🚀 BSc in Data Science | 💡 Turning data into stories</h3>
 
