@@ -6,7 +6,7 @@
   Hey there, I’m Nuran Farhana Prova!
 </h1>
 
-<h3 align="center">🚀 BSc in Data Science | 💡 Turning data into stories</h3>
+<h3 align="center">🚀 BSc in CSE | 💡 Turning data into stories</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -17,7 +17,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 BSc in Data Science @ East West University  
+- 🎓 BSc in CSE @ East West University  
 - 📊 Obsessed with clean data, dirty real-world problems  
 - 🧠 Fluent in Pythonese, thinks in vectors  
 - ✨ Interests: Machine Learning, Visualization, Ethical AI  
@@ -39,7 +39,6 @@
 
 ### 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/your-profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
