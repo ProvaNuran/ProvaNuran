@@ -30,10 +30,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProvaNuran&layout=compact&theme=radical" />
+      <!-- GitHub language card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProvaNuran&layout=compact&theme=dark" />
     </td>
-       <td>
-      <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" style="border-radius: 12px;" />
+    <td style="width: 40px;"></td> <!-- Spacer column -->
+    <td>
+      <!-- Your image -->
+      <img src="https://raw.githubusercontent.com/ProvaNuran/ProvaNuran/main/assets/flower-girl.png" width="180" />
     </td>
   </tr>
 </table>
