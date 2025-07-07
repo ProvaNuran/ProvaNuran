@@ -1,6 +1,17 @@
-👋 Hey there!
+<!-- Neon line divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-I am **Nuran Farhana Prova**
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+  Hey there, I’m Nuran Farhana Prova!
+</h1>
+
+<h3 align="center">🚀 BSc in Data Science | 💡 Turning data into stories</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EEAD4&width=435&lines=Data+Explorer+%26+ML+Learner;Pandas+%7C+Python+%7C+Jupyter+Notebook+Addict;Always+curious%2C+always+learning...)](https://git.io/typing-svg)
+
+---
+
 
 🧠 **About Me:**
 
