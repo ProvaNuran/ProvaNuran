@@ -1,16 +1,16 @@
-<!-- Lavender line divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-Lavender.gif" width="100%">
+<!-- Top Divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
-  Hey there, I’m Nuran Farhana Prova!
+  <span style="color:#facc15;">Hey there, I'm Nuran Farhana Prova!</span>
 </h1>
 
-<h3 align="center">🚀 BSc in CSE | 💡 Turning data into stories</h3>
+<h3 align="center" style="color:#14b8a6;">🚀 BSc in Data Science | 💡 Turning data into stories</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF61C7&width=435&lines=Data+Explorer+%26+ML+Learner;Pandas+%7C+Python+%7C+Jupyter+Notebook+Addict;Always+curious%2C+always+learning..." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&width=435&lines=Data+Explorer+%26+ML+Learner;Pandas+%7C+Python+%7C+Jupyter+Notebook+Addict;Always+curious%2C+always+learning..." alt="Typing animation" />
   </a>
 </p>
 
