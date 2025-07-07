@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hey there!
 
-<!--
-**ProvaNuran/ProvaNuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Nuran Farhana Prova**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧠 **About Me:**
+
+🎓 Studying BSc in Data Science at East West University
+📊 Passionate about data, machine learning, and AI  
+🐍 Python, Pandas & Jupyter Notebook lover  
+🔍 Curious mind on a journey to turn data into decisions  
+🌱 Always learning 
+
+!<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="blob:https://www.pinterest.com/d9ec4a4d-8103-4923-b1fa-6be4f1bcf4b9"300"/>
+    </td>
+  </tr>
+</table>
