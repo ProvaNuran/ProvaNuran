@@ -36,7 +36,7 @@
     <td style="width: 40px;"></td> <!-- Spacer column -->
     <td>
       <!-- Your image -->
-      <img src="https://raw.githubusercontent.com/ProvaNuran/ProvaNuran/main/assets/profile.jpg" width="180" />
+            <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
