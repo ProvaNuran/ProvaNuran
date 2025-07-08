@@ -3,10 +3,10 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
-  <span style="color:#facc15;">Hey there, I'm Nuran Farhana Prova!</span>
+  Hey there, I'm Nuran Farhana Prova!
 </h1>
 
-<h3 align="center" style="color:#14b8a6;">🚀 BSc in Data Science | 💡 Turning data into stories</h3>
+<h3 align="center">🚀 BSc in Data Science | 💡 Turning data into stories</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
