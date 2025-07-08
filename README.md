@@ -3,18 +3,30 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
-  Hey there, I'm Nuran Farhana Prova!
+  <span style="color: #facc15;">Hey there, I'm Nuran Farhana Prova!</span>
 </h1>
 
-<h3 align="center">🚀 BSc in Data Science | 💡 Turning data into stories</h3>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/BSc_Data_Science-0d1117?style=flat&logo=OpenAI&logoColor=facc15">
+  <img src="https://img.shields.io/badge/Telling_Stories_With_Data-0d1117?style=flat&logo=data&logoColor=14b8a6">
+</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&width=435&lines=Data+Explorer+%26+ML+Learner;Pandas+%7C+Python+%7C+Jupyter+Notebook+Addict;Always+curious%2C+always+learning..." alt="Typing animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Data+Explorer+%26+ML+Learner;Pandas+%7C+Python+%7C+Jupyter+Notebook+Addict;Always+curious%2C+always+learning..." alt="Typing animation" />
 </p>
 
 ---
+
+### 👩‍💻 About Me
+```yaml
+name: Nuran Farhana Prova
+location: Dhaka, Bangladesh
+education: BSc in CSE @ East West University
+specialty: Data Cleaning | Machine Learning | Visualization
+languages: Python, SQL
+tools: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter
+quote: "In a world full of noise, I listen to data."
+
 
 ### 👩‍💻 About Me
 - 🎓 BSc in CSE @ East West University  
