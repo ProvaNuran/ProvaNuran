@@ -20,7 +20,7 @@
 - 🎓 BSc in CSE @ East West University  
 - 📊 Obsessed with clean data, dirty real-world problems  
 - 🧠 Fluent in Pythonese, thinks in vectors  
-- ✨ Interests: Machine Learning, Visualization, Ethical AI  
+- ✨ Interests: Machine Learning, Visualization 
 - 💬 Quote: _"In a world full of noise, I listen to data."_
 
 ---
