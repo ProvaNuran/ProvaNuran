@@ -6,7 +6,7 @@
   <span style="color:#facc15;">Hey there, I'm Nuran Farhana Prova!</span>
 </h1>
 
-<h3 align="center" style="color:#14b8a6;">🚀 BSc in Data Science | 💡 Turning data into stories</h3>
+<h3 align="center" style="color:#14b8a6;">🚀 BSc in CSE | 💡 Turning data into stories</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
