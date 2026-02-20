@@ -24,25 +24,7 @@
 - 💬 Quote: _"In a world full of noise, I listen to data."_
 
 ---
-<table>
-  <tr>
-    <!-- GitHub language card -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProvaNuran&layout=compact&theme=radical" />
-    </td>
-
-    <!-- Spacer column -->
-    <td style="width: 20px;"></td>
-
-    <!-- Profile image -->
-    <td>
-      <div style="padding-left: 10px;">
-        <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" style="border-radius: 12px;" />
-      </div>
-    </td>
-  </tr>
-</table>
-<hr>
+<img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" style="border-radius: 12px;" />
 
 ### 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com/your-profile](https://www.facebook.com/NuranFarhana.Prova))
