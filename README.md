@@ -24,7 +24,7 @@
 - 💬 Quote: _"In a world full of noise, I listen to data."_
 
 ---
-
+<table>
   <tr>
     <!-- GitHub language card -->
     <td>
@@ -42,8 +42,7 @@
     </td>
   </tr>
 </table>
-
----
+<hr>
 
 ### 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com/your-profile](https://www.facebook.com/NuranFarhana.Prova))
