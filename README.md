@@ -25,9 +25,6 @@
 
 ---
 
-### GitHub
-
-<table>
   <tr>
     <!-- GitHub language card -->
     <td>
