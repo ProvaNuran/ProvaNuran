@@ -16,12 +16,10 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 - 🎓 BSc in CSE @ East West University  
-- 📊 Obsessed with clean data, dirty real-world problems  
-- 🧠 Fluent in Pythonese, thinks in vectors  
-- ✨ Interests: Machine Learning, Visualization 
-- 💬 Quote: _"In a world full of noise, I listen to data."_
+-  Obsessed with clean data, dirty real-world problems  
+-  Interests: Machine Learning, Visualization 
 
 ---
 <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" style="border-radius: 12px;" />
