@@ -1,31 +1,148 @@
-<!-- Top Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- ===================== BANNER ===================== -->
+<img src="https://github.com/ProvaNuran/ProvaNuran/raw/main/banner.png" width="100%" />
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
-  <span style="color:#facc15;">Hey there, I'm Nuran Farhana Prova!</span>
-</h1>
+<!-- ===================== VISITOR COUNT ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ProvaNuran&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<h3 align="center" style="color:#14b8a6;">🚀 BSc in CSE | 💡 Turning data into stories</h3>
+<!-- ===================== INTRO ===================== -->
+<h1 align="center">Hi 👋, I'm Nuran Farhana Prova</h1>
+
+<h3 align="center">
+📊 Data Science Enthusiast | 🤖 ML Learner | 💻 CSE Undergraduate
+</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&width=435&lines=Data+Explorer+%26+ML+Learner;Pandas+%7C+Python+%7C+Jupyter+Notebook+Addict;Always+curious%2C+always+learning..." alt="Typing animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Insights;Machine+Learning+Enthusiast;Python+%7C+Pandas+%7C+Scikit-Learn;Always+Learning+Something+New;Open+to+Internship+Opportunities" />
 </p>
 
 ---
 
-### About Me
-- 🎓 BSc in CSE @ East West University  
--  Obsessed with clean data, dirty real-world problems  
--  Interests: Machine Learning, Visualization 
+## 👩‍💻 About Me
+
+🎓 **BSc in Computer Science & Engineering**  
+🏫 East West University, Dhaka
+
+📊 Passionate about:
+- Data Analytics
+- Data Visualization
+- Machine Learning
+- Artificial Intelligence
+
+🌱 Currently Learning:
+- Machine Learning Algorithms
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Evaluation
+
+💡 Fun Fact:
+
+> I enjoy finding stories hidden inside data.
 
 ---
-<img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" style="border-radius: 12px;" />
 
-### Contact
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NuranFarhana.Prova)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nufapva10?igsh=MXg0Nmo1cDdzZ2x6bA==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuran-farhana-prova-047163387)
+## 🛠️ Tech Stack
 
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
+
+### Data Science & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 Data Analysis Projects
+- Sales Data Analysis
+- Customer Segmentation
+- Data Visualization Dashboard
+
+### 🤖 Machine Learning Projects
+- House Price Prediction
+- Student Performance Prediction
+- Classification Models
+
+> More projects coming soon...
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nuran-farhana-prova-047163387">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/nuranfarhanaprova">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/nuranfarhanaprova">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ProvaNuran&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ProvaNuran&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProvaNuran&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ProvaNuran&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProvaNuran&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨
+
+*"Learning never exhausts the mind."* — Leonardo da Vinci
+
+</div>
