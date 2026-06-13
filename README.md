@@ -29,7 +29,8 @@
   <img src="https://streak-stats.demolab.com?user=ProvaNuran&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProvaNuran&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
 </p>
+
 ### Contact
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NuranFarhana.Prova)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nufapva10?igsh=MXg0Nmo1cDdzZ2x6bA==)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/profanu01?igsh=MXg0Nmo1cDdzZ2x6bA==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuran-farhana-prova-047163387)
