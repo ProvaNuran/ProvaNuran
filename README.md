@@ -6,8 +6,6 @@
   Hey there, I'm Nuran Farhana Prova!
 </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ProvaNuran&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
-
 <h3 align="center">🚀 BSc in CSE | 💡 Turning data into stories</h3>
 
 <p align="center">
