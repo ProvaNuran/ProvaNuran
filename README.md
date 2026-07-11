@@ -22,9 +22,6 @@
 
 <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" />
 
-![Metrics](https://raw.githubusercontent.com/ProvaNuran/ProvaNuran/master/github-metrics.svg)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-ProvaNuran-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/farhananuren)
 
 ### My Contribution Skyline
 <picture>
@@ -39,3 +36,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NuranFarhana.Prova)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/profanu01?igsh=MXg0Nmo1cDdzZ2x6bA==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuran-farhana-prova-047163387)
+
+
+![Metrics](https://raw.githubusercontent.com/ProvaNuran/ProvaNuran/master/github-metrics.svg)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-ProvaNuran-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/farhananuren)
