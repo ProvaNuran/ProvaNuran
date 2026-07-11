@@ -22,10 +22,6 @@
 
 <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProvaNuran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=ProvaNuran&theme=tokyonight&hide_border=true" width="49%" />
-</p> 
 
 ### My Contribution Skyline
 <picture>
