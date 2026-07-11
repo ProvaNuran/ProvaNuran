@@ -17,7 +17,6 @@
 -  Interests: Machine Learning, Visualization
 
 <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" />
-<img src="https://media1.tenor.com/m/cYRncpJTFXcAAAAd/waneella-pixel-art.gif" width="400"/>
 
 ### My Contribution Skyline
 <picture>
