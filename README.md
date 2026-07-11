@@ -17,7 +17,7 @@
 -  Interests: Machine Learning, Visualization
 
 <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" />
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
+<img src="https://media1.tenor.com/m/cYRncpJTFXcAAAAd/waneella-pixel-art.gif" width="400"/>
 
 ### My Contribution Skyline
 <picture>
