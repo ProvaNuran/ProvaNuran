@@ -28,11 +28,6 @@
 ### Contribution Graph
 [![ProvaNuran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ProvaNuran&bg_color=00000000&color=b19cd9&line=b19cd9&point=ffffff&area=true&hide_border=true&custom_title=Nuran%20Prova's%20Contribution%20Graph)](https://github.com/ProvaNuran)
 
-### Kaggle Progression
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farhananuren/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farhananuren/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farhananuren/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/farhananuren/discussion)
 
 ### Contact
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NuranFarhana.Prova)
