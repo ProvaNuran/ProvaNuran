@@ -1,6 +1,15 @@
 <!-- Top Divider -->
 <img src="https://capsule-render.vercel.app/api?type=speech&color=0:B19CD9,100:4B91F1&height=180&section=header&text=Hey%2C%20I'm%20Prova!&fontSize=35&fontColor=ffffff"/>
 
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:B19CD9,100:4B91F1&height=180&section=header&text=Hey%2C%20I'm%20Prova!&fontSize=35&fontColor=ffffff"/>
+
+<h3 align="center">🚀 BSc in CSE | 💡 Turning data into stories</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&width=435&lines=Data+Explorer+%26+ML+Learner;Pandas+%7C+Python+%7C+Jupyter+Notebook+Addict;Always+curious%2C+always+learning..." alt="Typing animation" />
+  </a>
+</p>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
   Hey there, I'm Nuran Farhana Prova!
