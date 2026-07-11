@@ -22,6 +22,10 @@
 
 <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProvaNuran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ProvaNuran&theme=tokyonight&hide_border=true" width="49%" />
+</p> 
 
 ### My Contribution Skyline
 <picture>
@@ -32,9 +36,6 @@
 ### Contribution Graph
 [![ProvaNuran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ProvaNuran&bg_color=00000000&color=b19cd9&line=b19cd9&point=ffffff&area=true&hide_border=true&custom_title=Nuran%20Prova's%20Contribution%20Graph)](https://github.com/ProvaNuran)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProvaNuran&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ### Contact
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NuranFarhana.Prova)
