@@ -31,6 +31,12 @@
   <img src="profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
+### Watch the snake eat my contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProvaNuran/ProvaNuran/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ProvaNuran/ProvaNuran/output/github-snake.svg" />
+</picture>
+
 ### Contact
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NuranFarhana.Prova)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/profanu01?igsh=MXg0Nmo1cDdzZ2x6bA==)
