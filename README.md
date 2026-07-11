@@ -32,6 +32,10 @@
 ### Contribution Graph
 [![ProvaNuran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ProvaNuran&bg_color=00000000&color=b19cd9&line=b19cd9&point=ffffff&area=true&hide_border=true&custom_title=Nuran%20Prova's%20Contribution%20Graph)](https://github.com/ProvaNuran)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ProvaNuran&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
 ### Contact
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NuranFarhana.Prova)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/profanu01?igsh=MXg0Nmo1cDdzZ2x6bA==)
