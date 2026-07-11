@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-ProvaNuran-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ProvaNuran)
+[![Kaggle](https://img.shields.io/badge/Kaggle-ProvaNuran-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/farhananuren)
 
 ### About Me
 -  BSc in CSE @ East West University
