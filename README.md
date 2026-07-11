@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&color=0:B19CD9,100:4B91F1&height=180&section=header&text=Hey%2C%20I'm%20Prova!&fontSize=35&fontColor=ffffff"/>
 
 
-<h3 align="center">🚀 BSc in CSE | 💡 Turning data into stories</h3>
+<h3 align="center"> BSc in CSE |  Turning data into stories</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
