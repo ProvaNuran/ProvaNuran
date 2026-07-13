@@ -16,8 +16,16 @@
 -  Obsessed with clean data, dirty real-world problems
 -  Interests: Machine Learning, Visualization
 
-<img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" />
-<img src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif" width="100%" alt="Pixel art by Karina Formanova"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif" width="250" alt="Pixel art by Karina Formanova"/>
+    </td>
+  </tr>
+</table>
 
 ### My Contribution Skyline
 <picture>
