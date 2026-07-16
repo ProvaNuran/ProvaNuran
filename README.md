@@ -10,47 +10,12 @@
   </a>
 </p>
 
-About Me
+### About Me
+-  BSc in CSE @ East West University
+-  Obsessed with clean data, dirty real-world problems
+-  Interests: Machine Learning, Visualization
+<img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" /> 
 
-<img align="right" src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" />
-
-BSc in CSE @ East West University
-Obsessed with clean data, dirty real-world problems
-Interests: Machine Learning, Visualization
-Research: knowledge distillation & self-supervised learning (SimCLR, BYOL, MAE) for rice classification
-Building AgroMart — agricultural supply chain platform
-
-
-<br clear="right"/>
-<img src="https://img.icons8.com/fluency/24/settings.png"/> Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-B19CD9?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-4B91F1?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-B19CD9?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-4B91F1?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-B19CD9?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-4B91F1?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-B19CD9?style=for-the-badge&logo=plotly&logoColor=white">
-</p>
-<img src="https://img.icons8.com/fluency/24/combo-chart.png"/> My Contribution Skyline
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ProvaNuran&show_icons=true&theme=radical&hide_border=true&title_color=FACC15&icon_color=B19CD9" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProvaNuran&theme=radical&hide_border=true&ring=FACC15&fire=FACC15" width="48%">
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProvaNuran&theme=react-dark&hide_border=true&line=FACC15&color=B19CD9" width="97%">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/ProvaNuran/ProvaNuran/output/github-contribution-grid-snake.svg" width="97%">
-</p>
-<img src="https://img.icons8.com/fluency/24/link.png"/> Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/ProvaNuran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
 
 ### My Contribution Skyline
 <picture>
