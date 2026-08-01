@@ -11,11 +11,21 @@
 </p>
 
 ### About Me
+ 
+<table>
+<tr>
+<td valign="top">
 -  BSc in CSE @ East West University
 -  Obsessed with clean data, dirty real-world problems
 -  Interests: Machine Learning, Visualization
+</td>
+<td align="right">
+<img src="coding-girl.svg" width="130"/>
+<img src="moon-stars.svg" width="90"/>
+</td>
+</tr>
+</table>
 <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" /> 
-
 
 ### My Contribution Skyline
 <picture>
