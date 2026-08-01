@@ -10,31 +10,27 @@
   </a>
 </p>
 
+
 ### About Me
  
-<table>
-<tr>
-<td valign="top" width="55%">
-<ul>
-<li>BSc in CSE @ East West University</li>
-<li>Obsessed with clean data, dirty real-world problems</li>
-<li>Interests: Machine Learning, Visualization</li>
-</ul>
-</td>
-<td align="center" width="22%">
-<img src="coding-girl.svg" width="120"/>
-</td>
-<td align="center" width="22%">
-<img src="moon-stars.svg" width="120"/>
-</td>
-</tr>
-</table>
-<img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="300" /> 
+- BSc in CSE @ East West University
+- Obsessed with clean data, dirty real-world problems
+- Interests: Machine Learning, Visualization
+
+<p align="left">
+  <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="220" align="left" />
+  <img src="coding-girl.svg" width="90" />
+  <img src="moon-stars.svg" width="90" />
+</p>
+<br clear="left"/>
+
+
 ### My Contribution Skyline
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
   <img src="profile-3d-contrib/profile-green-animate.svg" />
 </picture>
+
 
 ### Contribution Graph
 [![ProvaNuran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ProvaNuran&bg_color=00000000&color=b19cd9&line=b19cd9&point=ffffff&area=true&hide_border=true&custom_title=Nuran%20Prova's%20Contribution%20Graph)](https://github.com/ProvaNuran)
