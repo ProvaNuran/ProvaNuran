@@ -13,7 +13,7 @@
 
 ### About Me                                                        
 - BSc in CSE @ East West University
-- Obsessed with clean data, dirty real-world problems                                               <img src="moon-stars.svg" width="90" />
+- Obsessed with clean data, dirty real-world problems                                               
 - Interests: Machine Learning, Visualization
 
 <p align="left">
