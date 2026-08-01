@@ -16,11 +16,9 @@
 - Obsessed with clean data, dirty real-world problems                                               
 - Interests: Machine Learning, Visualization
 
-<p align="left">
-  <img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="220" align="left" />
-  <img src="coding-girl.svg" width="90" />
-</p>
-<br clear="left"/>
+<img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="220" />
+<img src="coding-girl.svg" width="90" align="left"/>
+<br clear="both"/>
 
 
 ### My Contribution Skyline
