@@ -1,0 +1,28 @@
+<svg width="160" height="180" viewBox="0 0 140 200" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes typebounce {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-3px); }
+}
+@keyframes floatup {
+  0% { transform: translateY(0px); opacity: 0; }
+  20% { opacity: 1; }
+  100% { transform: translateY(-70px); opacity: 0; }
+}
+.hands { animation: typebounce 0.4s ease-in-out infinite; transform-origin: center; }
+.sym1 { animation: floatup 3s ease-in infinite; }
+.sym2 { animation: floatup 3s ease-in infinite 1s; }
+.sym3 { animation: floatup 3s ease-in infinite 2s; }
+text { font-family: monospace; font-weight: 600; }
+</style>
+<text x="60" y="60" class="sym1" font-size="16" fill="#4B91F1">&lt;/&gt;</text>
+<text x="100" y="70" class="sym2" font-size="16" fill="#34D399">{ }</text>
+<text x="40" y="80" class="sym3" font-size="16" fill="#FACC15">;</text>
+<circle cx="70" cy="110" r="20" fill="#F5C99B"/>
+<path d="M50 105 Q70 85 90 105 Q90 95 70 92 Q50 95 50 105 Z" fill="#3B2A22"/>
+<path d="M45 145 Q70 130 95 145 L98 190 L42 190 Z" fill="#4B91F1"/>
+<rect x="30" y="185" width="80" height="8" rx="2" fill="#B19CD9"/>
+<path d="M35 150 L105 150 L100 185 L40 185 Z" fill="#F3F0FA" stroke="#B19CD9" stroke-width="1.5"/>
+<ellipse class="hands" cx="55" cy="150" rx="6" ry="5" fill="#F5C99B"/>
+<ellipse class="hands" cx="85" cy="150" rx="6" ry="5" fill="#F5C99B" style="animation-delay:0.2s"/>
+</svg>
