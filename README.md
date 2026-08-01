@@ -15,11 +15,11 @@
 - BSc in CSE @ East West University
 - Obsessed with clean data, dirty real-world problems                                               
 - Interests: Machine Learning, Visualization
-
-<img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="220" />
+  
 <p>
-  <img src="coding-girl.svg" width="90"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ProvaNuran/ProvaNuran/blob/main/profile.jpg?raw=true" width="220" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="coding-girl.svg" width="90"/>
 </p>
 
 
